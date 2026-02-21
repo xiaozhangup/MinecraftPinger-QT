@@ -11,7 +11,9 @@ cmake --build build -j
 ./build/MinecraftPinger
 ```
 
-## ![image](./image.png)依赖
+![image](./image.png)
+
+## 依赖
 
 - CMake >= 3.16
 - Qt Widgets（Qt6 或 Qt5）
